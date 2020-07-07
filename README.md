@@ -1,2 +1,3 @@
 # hello-world
-intro repository
+
+Hello World, my name is Dimitrije.
