@@ -1,2 +1,2 @@
 # hello-world
-intro rep
+intro repository
